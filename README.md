@@ -10,4 +10,10 @@ Please complete the following two methods
 Note : Please indicate the frame index where the shot changes.
 ### Flowchart
 ![Flowchart](https://github.com/nick8592/Pattern-Recognition-Class/blob/main/Video%20Shot%20Detection/Flowchart.png)
-
+### Shot Detection Histogram
+#### KungFu Hustle
+![Original KungFu Hustle Shot Histogram](https://github.com/nick8592/Pattern-Recognition-Class/blob/main/Video%20Shot%20Detection/outputs/Original/KungFuHustle_ShotDetection.png)
+![Adaptive KungFu Hustle Shot Histogram](https://github.com/nick8592/Pattern-Recognition-Class/blob/main/Video%20Shot%20Detection/outputs/AdaptiveThreshold/KungFuHustle_ShotDetection.png)
+#### Spider Man
+![Origianl Spider Man Shot Histogram](https://github.com/nick8592/Pattern-Recognition-Class/blob/main/Video%20Shot%20Detection/outputs/Original/SpiderMan_ShotDetection.png)
+![Adaptive Spider Man Shot Histogram](https://github.com/nick8592/Pattern-Recognition-Class/blob/main/Video%20Shot%20Detection/outputs/AdaptiveThreshold/SpiderMan_ShotDetection.png)
