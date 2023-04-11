@@ -9,7 +9,8 @@ Note : Please indicate the frame index where the shot changes.
 ## Usage
 Remember to change
  - `video_source` - your video file path
- - `output_dir` - your output folder path
+ - `output_dir` - your output folder path   
+
 Run Original
 ```
 python original.py
