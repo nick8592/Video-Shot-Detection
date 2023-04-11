@@ -1,11 +1,13 @@
 # Video Shot Detection
 ## Rules
  - Programs must be based on C/C++ or Python w/wo window interface
+
 ## Requirements
 Please complete the following two methods
 1. Using **histogram feature** to implement the video shot detection.
 2. Design **your own algorithm** to implement the video shot detection.   
 Note : Please indicate the frame index where the shot changes.
+
 ## Usage
 For running `original.py`, `adaptivethreshold.py`, remember to change
  - `video_source` - your video file path
@@ -13,6 +15,17 @@ For running `original.py`, `adaptivethreshold.py`, remember to change
  
 For running `histogram.py`, remember to change
  - `input_dir` - your .csv folder path  
+
+## Installation
+Download from github
+```
+git clone https://github.com/nick8592/Video-Shot-Detection.git
+```
+Install reqired dependencies
+```
+cd main/
+pip install -r requirements.txt
+```
 
 ## Example
 Run Original
