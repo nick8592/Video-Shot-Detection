@@ -19,7 +19,7 @@ Run AdaptiveThreshold
 ```
 python adaptivethreshold.py
 ```
-Plot Differences Histogram
+Plot Shot Detection Histogram
 ```
 python histogram.py
 ```
