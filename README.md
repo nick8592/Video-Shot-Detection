@@ -7,10 +7,14 @@ Please complete the following two methods
 2. Design **your own algorithm** to implement the video shot detection.   
 Note : Please indicate the frame index where the shot changes.
 ## Usage
-Remember to change
+For running `original.py`, `adaptivethreshold.py`, remember to change
  - `video_source` - your video file path
  - `output_dir` - your output folder path   
+ 
+For running `histogram.py`, remember to change
+ - `input_dir` - your .csv folder path  
 
+## Example
 Run Original
 ```
 python original.py
@@ -19,11 +23,6 @@ Run AdaptiveThreshold
 ```
 python adaptivethreshold.py
 ```
-
-
-Remember to change
- - `input_dir` - your .csv folder path    
-
 Plot Shot Detection Histogram
 ```
 python histogram.py
