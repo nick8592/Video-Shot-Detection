@@ -1,4 +1,6 @@
 # Video Shot Detection
+Video shot detection is a computer vision technique used to automatically identify the boundaries between shots in a video sequence. Shot detection algorithms analyze the visual and/or auditory features of a video to determine when a new shot begins and ends, which is useful for tasks such as video indexing, summarization, and editing.
+
 ## Rules
  - Programs must be based on C/C++ or Python w/wo window interface
 
