@@ -20,9 +20,11 @@ Run AdaptiveThreshold
 python adaptivethreshold.py
 ```
 
-Plot Shot Detection Histogram
+
 Remember to change
- - `input_dir` - your .csv folder path  
+ - `input_dir` - your .csv folder path    
+
+Plot Shot Detection Histogram
 ```
 python histogram.py
 ```
